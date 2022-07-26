@@ -1,1 +1,1 @@
-ex rm 1.txt
+p This is a test.
