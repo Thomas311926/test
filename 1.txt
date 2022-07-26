@@ -1,1 +1,1 @@
-ex ls
+ex rm 1.txt
